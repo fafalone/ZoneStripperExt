@@ -1,0 +1,2 @@
+# ZoneStripperExt
+ZoneStripper Shell Extension
