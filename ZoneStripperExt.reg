@@ -2,3 +2,5 @@ REGEDIT4
 [HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\ZoneStripperExt]
 @="{854A058F-ABC5-48B5-9EEC-F610CBC1B693}"
 
+[HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\ZoneStripperExt]
+@="{854A058F-ABC5-48B5-9EEC-F610CBC1B693}"
